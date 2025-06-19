@@ -1,6 +1,8 @@
 # 🎬 IMDb Data Exploration Project
 
 This project explores real-world movie data from IMDb using Python, SQLite, and Jupyter Notebooks.
+Wanted an introduction to data loading (tsv's to sqlite db using python), some manipulation (exploding movie genre column, creating new table), querying, and Jupyter Notebooks.
+Mainly not for any use, but to document my learning progress. Can see the end goal of certain queries and plotting in the notebooks folder.
 
 ## ✅ Goals
 - Practice loading TSV files into SQLite
